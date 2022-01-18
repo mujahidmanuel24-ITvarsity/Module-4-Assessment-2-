@@ -60,3 +60,11 @@ body{
     left: 400px;
     top: 400px;
 }
+
+
+/*=====================Puzzle================*/
+
+#puzzle{
+    margin-left: 610px;
+    width: 50%;
+}
